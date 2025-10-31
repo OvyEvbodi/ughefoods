@@ -74,6 +74,28 @@ Healthy replacements — protein-rich yoghurt & chicken
 <span className="text-sm text-gray-500">Seconds</span>
 </div>
 </div>
+<br></br>
+<div className="text-sm text-gray-500">In the meantime, you can place an order via our social media platforms</div>
+<div className="mt-8 flex justify-center gap-4">
+  <a
+    href="https://www.instagram.com/ughe_foods"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block rounded-md px-6 py-3 bg-[#0B3B6F] text-white font-medium shadow hover:opacity-90 transition"
+  >
+    Instagram
+  </a>
+
+  <a
+    href="https://www.tiktok.com/@ughe_foods"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block rounded-md px-6 py-3 border border-gray-200 text-gray-700 bg-white hover:bg-gray-50 transition"
+  >
+    TikTok
+  </a>
+</div>
+
 </div>
 
 
